@@ -13,7 +13,4 @@
 * **Navigation:** AutoRoute.
 * **API:** Integration with high-accuracy weather APIs.
 
-# 📦 Installation
-1. `git clone https://github.com/elsankry02/weather_app.git`
-2. `flutter pub get`
-3. `flutter run`
+
