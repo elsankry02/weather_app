@@ -39,6 +39,6 @@ To run this project locally, follow these simple steps:
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/elsankry02/weather_app.git](https://github.com/elsankry02/weather_app.git)
+   git clone https://github.com/elsankry02/weather_app.git
 
 
